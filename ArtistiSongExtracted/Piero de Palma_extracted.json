@@ -1,0 +1,83 @@
+[
+    {
+        "title": "La Fanciulla del West: Act I",
+        "duration": 3708,
+        "youtubeSongId": "rz93Hd_eqz8",
+        "youtubeViews": 0,
+        "releaseDate": "2010",
+        "album": {
+            "youtubeAlbumId": "OLAK5uy_nm9Ppnyaw11r7IJQp6z4BP1tU8F5Oss_c",
+            "thumbnail": "https://lh3.googleusercontent.com/BoUS1a8FFQiLHqebergWDRNFc_hfVOyFIjdh7J3S2yksufPgsuiu-vqM8X19iXhoPil-e91ZlX_au8V3=w544-h544-l90-rj",
+            "title": "La Fanciulla del West",
+            "releaseDate": "2010",
+            "author": {
+                "name": "Piero de Palma",
+                "youtubeAuthorId": "UCvCUk1ZB_5_OnRUiNTQcWSg"
+            }
+        },
+        "artists": [
+            {
+                "name": "Mario del Monaco",
+                "youtubeAuthorId": "UCIjLL9tUs5gJWGxWpRQEhgw"
+            },
+            {
+                "name": "Piero de Palma",
+                "youtubeAuthorId": "UCvCUk1ZB_5_OnRUiNTQcWSg"
+            }
+        ]
+    },
+    {
+        "title": "La Fanciulla del West: Act II",
+        "duration": 2676,
+        "youtubeSongId": "GgYG54kA_jw",
+        "youtubeViews": 0,
+        "releaseDate": "2010",
+        "album": {
+            "youtubeAlbumId": "OLAK5uy_nm9Ppnyaw11r7IJQp6z4BP1tU8F5Oss_c",
+            "thumbnail": "https://lh3.googleusercontent.com/BoUS1a8FFQiLHqebergWDRNFc_hfVOyFIjdh7J3S2yksufPgsuiu-vqM8X19iXhoPil-e91ZlX_au8V3=w544-h544-l90-rj",
+            "title": "La Fanciulla del West",
+            "releaseDate": "2010",
+            "author": {
+                "name": "Piero de Palma",
+                "youtubeAuthorId": "UCvCUk1ZB_5_OnRUiNTQcWSg"
+            }
+        },
+        "artists": [
+            {
+                "name": "Mario del Monaco",
+                "youtubeAuthorId": "UCIjLL9tUs5gJWGxWpRQEhgw"
+            },
+            {
+                "name": "Piero de Palma",
+                "youtubeAuthorId": "UCvCUk1ZB_5_OnRUiNTQcWSg"
+            }
+        ]
+    },
+    {
+        "title": "La Fanciulla del West: Act III",
+        "duration": 1610,
+        "youtubeSongId": "28uMgkRfrgI",
+        "youtubeViews": 0,
+        "releaseDate": "2010",
+        "album": {
+            "youtubeAlbumId": "OLAK5uy_nm9Ppnyaw11r7IJQp6z4BP1tU8F5Oss_c",
+            "thumbnail": "https://lh3.googleusercontent.com/BoUS1a8FFQiLHqebergWDRNFc_hfVOyFIjdh7J3S2yksufPgsuiu-vqM8X19iXhoPil-e91ZlX_au8V3=w544-h544-l90-rj",
+            "title": "La Fanciulla del West",
+            "releaseDate": "2010",
+            "author": {
+                "name": "Piero de Palma",
+                "youtubeAuthorId": "UCvCUk1ZB_5_OnRUiNTQcWSg"
+            }
+        },
+        "artists": [
+            {
+                "name": "Mario del Monaco",
+                "youtubeAuthorId": "UCIjLL9tUs5gJWGxWpRQEhgw"
+            },
+            {
+                "name": "Piero de Palma",
+                "youtubeAuthorId": "UCvCUk1ZB_5_OnRUiNTQcWSg"
+            }
+        ]
+    }
+]

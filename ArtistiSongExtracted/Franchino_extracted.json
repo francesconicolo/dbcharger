@@ -1,0 +1,25 @@
+[
+    {
+        "title": "Futuro Intenço",
+        "duration": 400,
+        "youtubeSongId": "523xH4cLe6Y",
+        "youtubeViews": 0,
+        "releaseDate": "2019",
+        "album": {
+            "youtubeAlbumId": "OLAK5uy_mBqqjXMB2m7BxO8nOt1dvTgQu1q8lBtwE",
+            "thumbnail": "https://lh3.googleusercontent.com/UvlLv0Vn1xYlxM_LYnJ_bsT_ioz9IvO5q_5QHDxHhxQjXxEf7UjflQXV41SARe11iKWR6vKr2TDXyhft=w544-h544-l90-rj",
+            "title": "Futuro Intenço",
+            "releaseDate": "2019",
+            "author": {
+                "name": "Franchino",
+                "youtubeAuthorId": "UC8FMroCJoHvBmtDs4el8qfQ"
+            }
+        },
+        "artists": [
+            {
+                "name": "Franchino",
+                "youtubeAuthorId": "UC8FMroCJoHvBmtDs4el8qfQ"
+            }
+        ]
+    }
+]
