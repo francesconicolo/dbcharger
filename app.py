@@ -34,7 +34,7 @@ def main():
   for index,artista in enumerate(artistList): 
     response = requests.get(f'{ENDPOINT}/refresh')
     response_data = response.json()
-    key = response_data["result"]
+    key = response_data["data"]
     print(f"------------------------------------------------------------------------------------")
     print(f'{index} of {len(artistList)} - {artista}')
     duration, canzoniInviate = sendArtist(artista,key=key)
